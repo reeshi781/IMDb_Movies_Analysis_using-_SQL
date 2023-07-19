@@ -1,1 +1,1 @@
-# IMDb_Movies_Analysis_using-_SQL
+# IMDb_Movies_Analysis_using_SQL
